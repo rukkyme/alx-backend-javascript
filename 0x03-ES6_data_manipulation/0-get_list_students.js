@@ -10,3 +10,4 @@ export default function getListStudents() {
 
 const students = getListStudents();
 console.log(students);
+
